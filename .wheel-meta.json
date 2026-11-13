@@ -1,0 +1,22 @@
+{
+  "wheel_id": 881,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-118",
+  "project": "retaining-walls-gold-coast-maintenance-ad02d62fae2807f3319c4f56",
+  "parent_t1_ref": "retainingwallgoldcoast-158",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast maintenance",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-gold-coast-maintenance-ad02d62fae2807f3319c4f56/",
+  "tier": "T2",
+  "writeback_nonce": "c8a6e3f0df5302ff",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-gold-coast-council-and-approvals-9ef69da294feba.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to retaining walls gold coast council and approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
